@@ -2,7 +2,7 @@
 %define		module	urljr
 
 Summary:	URL-related utilites from JanRain, Inc.
-Summary(pl):	Narzêdzia zwi±zane z URL-ami napisane przez JanRain, Inc.
+Summary(pl.UTF-8):   NarzÄ™dzia zwiÄ…zane z URL-ami napisane przez JanRain, Inc.
 Name:		python-%{module}
 Version:	1.0.1
 Release:	1
@@ -21,11 +21,11 @@ URL-related utilites from JanRain, Inc.
 This package contains the "fetchers" module, which provides
 a common interface to urllib2 and curl for making HTTP requests.
 
-%description -l pl
-Narzêdzia zwi±zane z URL-ami napisane przez JanRain, Inc.
+%description -l pl.UTF-8
+NarzÄ™dzia zwiÄ…zane z URL-ami napisane przez JanRain, Inc.
 
-Ten pakiet zawiera modu³ "fetchers" dostarczaj±cy wspólny interfejs do
-urllib2 i curl do wykonywania zapytañ HTTP.
+Ten pakiet zawiera moduÅ‚ "fetchers" dostarczajÄ…cy wspÃ³lny interfejs do
+urllib2 i curl do wykonywania zapytaÅ„ HTTP.
 
 %prep
 %setup -q
