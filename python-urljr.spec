@@ -5,7 +5,7 @@ Summary:	URL-related utilites from JanRain, Inc.
 Summary(pl.UTF-8):	Narzędzia związane z URL-ami napisane przez JanRain, Inc.
 Name:		python-%{module}
 Version:	1.0.1
-Release:	5
+Release:	6
 License:	LGPL
 Group:		Libraries/Python
 Source0:	http://www.openidenabled.com/resources/downloads/python-openid/%{name}-%{version}.tar.gz
